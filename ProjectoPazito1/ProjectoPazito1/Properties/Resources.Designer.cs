@@ -63,6 +63,16 @@ namespace ProjectoPazito1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_home_32px {
+            get {
+                object obj = ResourceManager.GetObject("icons8_home_32px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Sign_Up11 {
             get {
                 object obj = ResourceManager.GetObject("Sign Up11", resourceCulture);

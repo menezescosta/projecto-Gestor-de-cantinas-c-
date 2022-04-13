@@ -11,3 +11,6 @@ c:\users\mauricio costa\documents\visual studio 2015\Projects\ProjectoPazito1\Pr
 c:\users\mauricio costa\documents\visual studio 2015\Projects\ProjectoPazito1\ProjectoPazito1\obj\Debug\ProjectoPazito1.principal.resources
 c:\users\mauricio costa\documents\visual studio 2015\Projects\ProjectoPazito1\ProjectoPazito1\obj\Debug\ProjectoPazito1.stock.resources
 c:\users\mauricio costa\documents\visual studio 2015\Projects\ProjectoPazito1\ProjectoPazito1\obj\Debug\ProjectoPazito1.Vendas.resources
+C:\Users\Mauricio Costa\Documents\GitHub\projecto-Gestor-de-cantinas-c-\ProjectoPazito1\ProjectoPazito1\bin\Debug\ProjectoPazito1.exe.config
+C:\Users\Mauricio Costa\Documents\GitHub\projecto-Gestor-de-cantinas-c-\ProjectoPazito1\ProjectoPazito1\obj\Debug\ProjectoPazito1.exe
+C:\Users\Mauricio Costa\Documents\GitHub\projecto-Gestor-de-cantinas-c-\ProjectoPazito1\ProjectoPazito1\obj\Debug\ProjectoPazito1.pdb
